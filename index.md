@@ -28,5 +28,9 @@ My research endeavors lie at the intersection of **deep learning**, **generative
 
 ---
 
+## Publications
+
+- **work in progress**
+Coming soon to a prestigious journal near you! (But for now, please enjoy the thrilling journey of my research adventures.)
 
 
