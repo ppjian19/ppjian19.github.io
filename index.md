@@ -8,7 +8,7 @@ Here is **Jian Peng**.
 
 I am a M.S. student in Phamaceutical Sciences at West China School of Pharmacy, Sichuan University, advised by [Prof. Guo-Bo Li](https://www.ddtmlab.org/). My research focuses on **Al-assisted drug design**, exploring the potential of artificial intelligence to accelerate the discovery and development of new medications.
 
-If you are interested in my research, l would love to chat and collaborate, please email me at - *pengjian[at]stu.scu.edu[dot]cn*
+If you are interested in my research, l would love to chat and collaborate, please email me at - *pengjian[at]stu.scu.edu.cn*
 
 ---
 
